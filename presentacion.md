@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es Valentina.
+Hola! Mi nombre es [COMPLETAR].
 
-En mi tiempo libre me gusta mirar series.
+En mi tiempo libre me gusta...
 
-Mi instrucción favorita del manual de intel es un secreto.
+Mi instrucción favorita del manual de intel es...
